@@ -499,7 +499,7 @@ if predict_button:
 
     plt.style.use("dark_background")
 
-    fig, ax = plt.subplots(figsize=(10, 6))
+    fig, ax = plt.subplots(figsize=(11, 4.5))
 
     fig.patch.set_facecolor("#0f172a")
     ax.set_facecolor("#0f172a")
