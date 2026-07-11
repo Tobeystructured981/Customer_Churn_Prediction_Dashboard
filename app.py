@@ -251,6 +251,7 @@ model_columns = joblib.load("Models/columns.pkl")
 models = {
     "Logistic Regression": log_reg,
     "Decision Tree": dt,
+    "Random Forest": rf,
     "Neural Network": nn
 }
 
