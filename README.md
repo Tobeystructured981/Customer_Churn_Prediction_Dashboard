@@ -6,11 +6,8 @@ An interactive Machine Learning dashboard that predicts whether a customer is li
 
 ## 🚀 Live Demo
 
-> Add your Streamlit deployment link here after deployment.
+> https://customer-churn-prediction-model-dashboard.streamlit.app/
 
-Example:
-
-https://your-app-name.streamlit.app
 
 ---
 
@@ -178,8 +175,8 @@ The application predicts:
 
 ## Dashboard
 
-[
-![Dashboard](Images/Dashboard.png)]
+
+![Dashboard](Images/Dashboard.png)
 
 ---
 
@@ -241,9 +238,9 @@ This project uses the Telco Customer Churn dataset containing customer demograph
 
 # 👨‍💻 Author
 
-**Your Name**
+**Isbah Ali**
 
-GitHub: [https://github.com/Isbah-Ali  ]
+GitHub: https://github.com/Isbah-Ali  
 
 LinkedIn: https://linkedin.com/in/isbah-ali-dataanalyst/
 
